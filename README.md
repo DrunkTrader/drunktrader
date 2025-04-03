@@ -2,7 +2,9 @@
   <img src="ascii-art.png" alt="GitHub Banner" width="15%" />
 </div>
 # Hello World!, I'm Neeraj Kumar👋🏼:<br>
-🛜 Currently working on my own [webpage](https://www.drunktrader.me)<br>
+🛜 Currently working on my own 
+<a href="https://www.drunktrader.me/">webpage</a>
+<br>
 👨🏼‍🎓 Studying Automation & Robotics at USAR, GGSPIU EDC.<br>
 👨🏼‍💻 Searching for internship opportunities.<br>
 🎬 Currently learning <i>DSA.</i>
@@ -91,9 +93,11 @@
 <h3 align="left">Contributions:</h3>
 
 ###
-
-<img src="https://raw.githubusercontent.com/drunktrader/drunktrader/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drunktrader/drunktrader/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drunktrader/drunktrader/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/drunktrader/drunktrader/output/github-snake.svg" />
+</picture>
 ###
 
 <h3 align="left">Statistics :</h3>
