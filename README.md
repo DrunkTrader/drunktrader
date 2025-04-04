@@ -79,12 +79,16 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=drunktrader&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=drunktrader&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drunktrader&theme=default)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drunktrader&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drunktrader&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="languages graph"  /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drunktrader&theme=default" height="170" alt="profile summary graph"  />
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote" />
+</div>
 
 ###
 
