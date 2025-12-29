@@ -2,9 +2,6 @@
   <img src="ascii-art.png" alt="GitHub Banner" width="15%" />
 </div>
 # Hello World!, I'm Neeraj Kumar👋🏼:<br>
-🛜 Currently working on my own 
-<a href="https://www.drunktrader.me/">webpage</a>
-<br>
 👨🏼‍🎓 Studying Automation & Robotics at USAR, GGSPIU EDC.<br>
 👨🏼‍💻 Searching for internship opportunities.<br>
 🎬 Currently learning <i>DSA.</i>
