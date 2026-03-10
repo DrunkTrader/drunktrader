@@ -15,10 +15,10 @@
   <a href="https://www.linkedin.com/in/drunktrader/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/whoisneeraj" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/whyyneeeraj" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/_neerajk21_/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/whyyneeeraj/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
