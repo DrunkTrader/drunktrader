@@ -1,11 +1,6 @@
 <div align="center">
   <img src="ascii-art.png" alt="GitHub Banner" width="15%" />
 </div>
-# Hello World!, I'm Neeraj Kumar👋🏼:<br>
-👨🏼‍🎓 Studying Automation & Robotics at USAR, GGSPIU EDC.<br>
-👨🏼‍💻 Searching for internship opportunities.<br>
-🎬 Currently learning <i>DSA.</i>
-
 
 <h2 align="left">Connect with me on :</h2>
 
@@ -73,43 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drunktrader&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drunktrader&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" height="170" alt="languages graph"  /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drunktrader&theme=dark" height="170" alt="profile summary graph"  />
-</div>
-
-###
-
-<details open> 
-  <summary><h2>📘 Featured Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/drunktrader/auto-git-committer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=drunktrader&repo=auto-git-committer&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="auto-git-committer">
-    </a>
-    <a href="https://github.com/drunktrader/tradingview-data-fetcher">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=drunktrader&repo=tradingview-data-fetcher&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="tradingview-data-fetcher ">
-    </a>
-    <a href="https://github.com/drunktrader/nse-scraper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=drunktrader&repo=nse-scraper&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="nse-scraper">
-    </a>
-    <a href="https://github.com/drunktrader/missile-defense-game">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=drunktrader&repo=missile-defense-game&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="missile-defense-game ">
-    </a>
-  </p>
-
-  <a href="https://github.com/drunktrader?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</details>
-
-###
-
-<h2 align="left">Visitor's Count:</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/drunktrader/count.svg?"  />
 </div>
 
 ###
