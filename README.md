@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="ascii-art.png" alt="GitHub Banner" width="15%" />
+  <h1>I wanna do great things with tech</h1>
+  <img src="https://github.com/user-attachments/assets/f33bdc4b-52f6-48c6-a909-311eafd9fea6" alt="Deku" width="300" />
 </div>
+
+<!-- <div align="center">
+  <img src="ascii-art.png" alt="GitHub Banner" width="15%" />
+</div> -->
 
 <h2 align="left">Connect with me on :</h2>
 
